@@ -16,7 +16,7 @@ O projeto busca engajar a comunidade, escolas, empresas e instituições locais 
 
 - Incentivar 500 famílias a adotarem a compostagem doméstica.
 
-### 🛠️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 **HTML5** para estruturação das páginas.
 
@@ -24,7 +24,7 @@ O projeto busca engajar a comunidade, escolas, empresas e instituições locais 
 
 **JavaScript (ES6)** para interatividade e componentes dinâmicos.
 
-### 📑 Estrutura do Projeto
+## Estrutura do Projeto
 
 `index.html` → Página principal com todas as seções do programa.
 
@@ -32,7 +32,8 @@ O projeto busca engajar a comunidade, escolas, empresas e instituições locais 
 
 `script.js` → Funções para animações, interações e componentes dinâmicos.
 
-### 📌 Funcionalidades
+
+## Funcionalidades
 
 - Diagnóstico dos principais problemas ambientais da cidade.
 - Propostas de soluções sustentáveis.
@@ -41,7 +42,7 @@ O projeto busca engajar a comunidade, escolas, empresas e instituições locais 
 - Ações comunitárias para escolas, igrejas e bairros.
 - Metas de impacto e barra de progresso.
 
-### 🤝 Possíveis Parcerias
+## Possíveis Parcerias
 
 - Cooperativas de catadores.
 - Escolas e instituições de ensino.
@@ -50,7 +51,7 @@ O projeto busca engajar a comunidade, escolas, empresas e instituições locais 
 - Mídia local para divulgação.
 
 
-### 📂 Como Usar
+## Como Usar
 
 Clone o repositório:
 
@@ -66,6 +67,7 @@ Abra o arquivo `index.html` no navegador.
 
 Você também pode acessar o site [aqui!](https://layraneleao.github.io/ecoalagoinhas/)
 
+---
 ### 💚 Licença
 
 Este projeto é de uso **livre** para fins educativos e de conscientização ambiental.
