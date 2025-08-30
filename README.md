@@ -2,11 +2,11 @@
 
 Um projeto desenvolvido para promover a conscientização ambiental e propor soluções práticas para a **gestão sustentável de resíduos sólidos e fortalecimento da logística reversa** na cidade de Alagoinhas-BA.
 
-## 🚀 Objetivo
+## Objetivo
 
 O projeto busca engajar a comunidade, escolas, empresas e instituições locais para reduzir o impacto ambiental por meio de ações educativas, programas de reciclagem e parcerias institucionais.
 
-## 🎯 Metas do Projeto
+## Metas do Projeto
 
 - Reduzir em 40% os resíduos destinados ao aterro sanitário até 2026.
 
@@ -16,7 +16,7 @@ O projeto busca engajar a comunidade, escolas, empresas e instituições locais 
 
 - Incentivar 500 famílias a adotarem a compostagem doméstica.
 
-## 🛠️ Tecnologias Utilizadas
+### 🛠️ Tecnologias Utilizadas
 
 **HTML5** para estruturação das páginas.
 
@@ -24,7 +24,7 @@ O projeto busca engajar a comunidade, escolas, empresas e instituições locais 
 
 **JavaScript (ES6)** para interatividade e componentes dinâmicos.
 
-## 📑 Estrutura do Projeto
+### 📑 Estrutura do Projeto
 
 `index.html` → Página principal com todas as seções do programa.
 
@@ -32,30 +32,25 @@ O projeto busca engajar a comunidade, escolas, empresas e instituições locais 
 
 `script.js` → Funções para animações, interações e componentes dinâmicos.
 
-## 📌 Funcionalidades
+### 📌 Funcionalidades
 
-✔️ Diagnóstico dos principais problemas ambientais da cidade.
-✔️ Propostas de soluções sustentáveis.
-✔️ Programa de conscientização dividido em fases.
-✔️ Boas práticas de descarte e reciclagem.
-✔️ Ações comunitárias para escolas, igrejas e bairros.
-✔️ Metas de impacto e barra de progresso.
+- Diagnóstico dos principais problemas ambientais da cidade.
+- Propostas de soluções sustentáveis.
+- Programa de conscientização dividido em fases.
+- Boas práticas de descarte e reciclagem.
+- Ações comunitárias para escolas, igrejas e bairros.
+- Metas de impacto e barra de progresso.
 
-## 🤝 Possíveis Parcerias
+### 🤝 Possíveis Parcerias
 
 - Cooperativas de catadores.
-
 - Escolas e instituições de ensino.
-
 - Empresas locais com programas de responsabilidade social.
-
 - ONGs e grupos comunitários.
-
 - Mídia local para divulgação.
 
 
-
-## 📂 Como Usar
+### 📂 Como Usar
 
 Clone o repositório:
 
@@ -69,8 +64,8 @@ Acesse a pasta do projeto:
 
 Abra o arquivo `index.html` no navegador.
 
-Você também pode acessar o site [aqui!]()
+Você também pode acessar o site [aqui!](https://layraneleao.github.io/ecoalagoinhas/)
 
-## 💚 Licença
+### 💚 Licença
 
 Este projeto é de uso **livre** para fins educativos e de conscientização ambiental.
